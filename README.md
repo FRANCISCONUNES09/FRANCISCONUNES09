@@ -2,7 +2,7 @@
 
 - 🔭 Estudando na Geração Tech
 - 🌱 Estudando Front-end
-- 🤔 I’m looking for help with ...
+- 🤔 Estudando Back-end
 
 - <div>
   <a href=https://github.com/FRANCISCONUNES09>
