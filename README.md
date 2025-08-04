@@ -25,7 +25,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/Francisco-Nunes-3a4501270" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/francisconunes0825_29424" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FRANCISCONUNES09/FRANCISCONUNES09/output/github-contribution-grid-snake-dark.svg">
