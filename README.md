@@ -1,4 +1,4 @@
-## Olá! Eu sou FRANCISCO NUNES
+## <h1 align="center">Olá! Eu sou FRANCISCO NUNES</h1>
 
 - 🔭 Estudando na Geração Tech
 - 🌱 Estudando Front-end
